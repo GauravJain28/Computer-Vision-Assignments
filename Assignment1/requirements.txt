@@ -1,0 +1,4 @@
+opencv==4.7.0
+numpy==1.23.5
+scipy==1.9.3
+ffmpeg==5.1.2
